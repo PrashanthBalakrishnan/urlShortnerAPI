@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://prashanth:eT75HjUmUBr5itDS@cluster0.q46a5u3.mongodb.net/test",
+  "baseUrl": "http://localhost:5000/"
+}
